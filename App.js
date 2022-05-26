@@ -26,7 +26,6 @@ const App = () => {
       {/* <NavigationContainer>
         <MyDrawer />
       </NavigationContainer> */}
-
       <NavigationContainer>
         <Tab.Navigator initialRouteName="Login">
           <Tab.Screen
